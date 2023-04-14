@@ -1,6 +1,4 @@
 ![Node build](https://github.com/eritislami/evobot/actions/workflows/node.yml/badge.svg)
-![Docker build](https://github.com/eritislami/evobot/actions/workflows/docker.yml/badge.svg)
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
 # 🤖 ChatGPT3.5 - Discord Bot 
 >  ChatGPT3.5 - Discord Bot is Discord Music Bot built with TypeScript, [discordjs](https://discordjs.guide) & OpenaiAPI 
@@ -14,7 +12,7 @@
 ## 🚀 Getting Started
 
 ```sh
-1. git clone 
+1. git clone https://github.com/YTvictorworld/ChatGPT-BOT.git
 --
 2. pnpm install OR npm install 
 ```
